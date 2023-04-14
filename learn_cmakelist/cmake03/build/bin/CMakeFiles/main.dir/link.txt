@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/main.cpp.o  -o main  -L/home/gjc/CppProject/learn_cmake/learn_cmakelist/cmake03/lib -Wl,-rpath,/home/gjc/CppProject/learn_cmake/learn_cmakelist/cmake03/lib -lhello 

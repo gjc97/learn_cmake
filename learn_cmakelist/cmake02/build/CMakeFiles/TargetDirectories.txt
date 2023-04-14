@@ -1,0 +1,6 @@
+/home/gjc/CppProject/learn_cmake/learn_cmakelist/cmake02/build/CMakeFiles/rebuild_cache.dir
+/home/gjc/CppProject/learn_cmake/learn_cmakelist/cmake02/build/CMakeFiles/edit_cache.dir
+/home/gjc/CppProject/learn_cmake/learn_cmakelist/cmake02/build/bin/CMakeFiles/rebuild_cache.dir
+/home/gjc/CppProject/learn_cmake/learn_cmakelist/cmake02/build/bin/CMakeFiles/edit_cache.dir
+/home/gjc/CppProject/learn_cmake/learn_cmakelist/cmake02/build/bin/CMakeFiles/hello_static.dir
+/home/gjc/CppProject/learn_cmake/learn_cmakelist/cmake02/build/bin/CMakeFiles/hello.dir
